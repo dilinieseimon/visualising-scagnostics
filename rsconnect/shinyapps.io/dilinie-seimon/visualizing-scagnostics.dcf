@@ -1,0 +1,12 @@
+name: visualizing-scagnostics
+title: visualizing-scagnostics
+username:
+account: dilinie-seimon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3437646
+bundleId: 4047208
+url: https://dilinie-seimon.shinyapps.io/visualizing-scagnostics/
+when: 1609475567.84691
+asMultiple: FALSE
+asStatic: FALSE
