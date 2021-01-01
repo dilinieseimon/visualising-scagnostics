@@ -12,8 +12,8 @@ my_vars <- c("barrels08", "cylinders", "city08", "highway08", "feScore", "fuelCo
 ui <- fluidPage(
 
   fluidRow(HTML("<center>
-                <h1>Visualizing Scagnostics</h1>
-                <p style='font-size:20px'>This application visualizes scatterplots of the combinations of a few variables of the
+                <h1>Visualising Scagnostics</h1>
+                <p style='font-size:20px'>This application visualises scatterplots of the combinations of a few variables of the
                 <a href='https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-10-15'>big_epa_cars dataset</a>
                 and calculates the scagnostics on each combination of variables.</p>
                 </center>"),
